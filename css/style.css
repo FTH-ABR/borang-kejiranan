@@ -296,7 +296,14 @@ span.divider {
         page-break-after: always;
         margin-top: 0px;
     }
+	  table.borang3 {
+        page-break-after: always;
+        margin-top: 0px;
+    }
     .noprint {
         display: none !important;
     }
+	.page-break { display: block;  page-break-after: always; }
 }
+
+
